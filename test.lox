@@ -1,0 +1,18 @@
+var u = 10;
+
+
+
+class Man{
+    talk(name){
+        return "hemoo";
+    }
+
+}
+
+var man = Man();
+
+man.age = 12;
+
+
+
+print man.talk("asd");
